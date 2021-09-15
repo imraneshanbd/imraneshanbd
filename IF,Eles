@@ -1,0 +1,7 @@
+print("welcome to the rollerblade!")
+height = int(input("what is your height in cm? "))
+
+if height > 130:
+    print("you can ride the roller!")
+else:
+    print("sorry, you have to go taller before you can ride")
